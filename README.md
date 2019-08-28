@@ -15,7 +15,7 @@
 您可以将项目下载后自行打包构建属于您自己的版本
 
 ### LICENSE  
-MIT
+[MIT](https://github.com/kimmosc2/hedu-basic/blob/master/LICENSE)
 
 ### 鸣谢  
 菜翔
