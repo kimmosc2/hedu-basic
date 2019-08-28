@@ -7,18 +7,18 @@
 原密码的情况下修改密码
 
 ### 技术栈  
-后端:Golang
-前端:Vue.js
-前后端分离开发,共同部署(可分离部署,穷)
+后端:Golang  
+前端:Vue.js  
+前后端分离开发,共同部署(可分离部署,穷)  
 
 ### 说明  
-您可以将项目下载后自行打包构建属于您自己的版本
+您可以将项目下载后自行打包或更改构建属于您自己的版本  
 
 ### LICENSE  
-[MIT](https://github.com/kimmosc2/hedu-basic/blob/master/LICENSE)
+[MIT](https://github.com/kimmosc2/hedu-basic/blob/master/LICENSE)  
 
 ### 鸣谢  
-菜翔
+菜翔  
 
 ### OWNER
-[BuTn](https://github.com/kimmosc2)
+[BuTn](https://github.com/kimmosc2)  
