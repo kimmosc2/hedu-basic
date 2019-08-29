@@ -17,6 +17,10 @@ type appConfig struct {
 	AppMode string
 	// 静态目录(本地目录)
 	StaticPath string
+
+	// SSL证书文件
+	SSLKey string
+	SSLPem string
 }
 
 func init() {
@@ -25,4 +29,6 @@ func init() {
 	Appconf.AppName = os.Getenv("APP_NAME")
 	Appconf.StaticPath = os.Getenv("STATIC_PATH")
 	Appconf.AppMode = os.Getenv("APP_MODE")
+	Appconf.SSLKey = os.Getenv("SSL_KEY")
+	Appconf.SSLPem = os.Getenv("SSL_PEM")
 }
